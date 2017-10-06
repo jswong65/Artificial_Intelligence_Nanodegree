@@ -16,6 +16,6 @@ Projects for Udacity Artificial Intelligence Nanodegree
 * [AIND-Pac_Man](https://github.com/jswong65/AIND-Pac_Man)
 
 ## Term 2 - Deep Learning
-* [AIND-CNN](https://github.com/jswong65/AIND-CNN)
+* [AIND-CNN](https://github.com/jswong65/AIND-CNN): Use [Haar feature-based cascade classifiers](http://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html) provided by OpenCV to detect human faces which would return a list of tuples (coordinates of a bounding box). In addition, I built a CNN based on the Alexnet architecture with Keras for dog breed classification (8,351 images in 133 classes). Since this is a relatively small dataset, the accracy of this model is quite low. 
 * [AIND-RNN](https://github.com/jswong65/AIND-RNN)
 * [AIND-Machine Translation](https://github.com/jswong65/Keras_Machine_Translation)
